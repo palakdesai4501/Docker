@@ -10,3 +10,16 @@ Using Docker can help you ship your code faster, gives you control over your app
 You can deploy applications on containers that make it easier for them to be deployed, scaled, perform rollbacks and identify issues. 
 It also helps in saving money by utilizing resources. Docker-based applications can be seamlessly moved from local development machines to production deployments. 
 You can use Docker for Microservices, Data Processing, Continuous Integration and Delivery, Containers as a Service.
+
+Containerization vs Virtualization
+
+Containerization and virtualization both allow multiple applications to run on the same hardware. 
+Virtualization uses a hypervisor to create multiple virtual machines (VMs), each with its own operating system, making it more resource-intensive. 
+Containerization, on the other hand, virtualizes the operating system, allowing applications to run in isolated environments (containers) on the same OS, making it more lightweight and efficient. 
+Containers share the host OS, avoiding the overhead of running multiple OS instances like VMs do.
+
+
+
+
+
+
